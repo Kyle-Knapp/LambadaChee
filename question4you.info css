@@ -1,0 +1,72 @@
+#body {
+	background-image: url("wallpaper2.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+
+#yes {
+	display:       inline-block;
+	padding:       32px 80px;
+	background:    -moz-linear-gradient(#f0f, #90f);
+	background:    -o-linear-gradient(#f0f, #90f);
+	background:    -webkit-linear-gradient(#f0f, #90f);
+	background:    linear-gradient(#f0f, #90f);
+	border-radius: 5px;
+	color:         #fff;
+	font:          normal 700 45px/1 "Ubuntu", sans-serif;
+	text-align:    left;
+	text-shadow:   3px 3px 0 #000;
+	border:        2px solid #000;
+	margin-left:  500px;
+	margin-top:   550px;
+	cursor: help;
+}
+
+#no {
+	display:       inline-block;
+	padding:       32px 85px;
+	background:    -moz-linear-gradient(#f0f, #90f);
+	background:    -o-linear-gradient(#f0f, #90f);
+	background:    -webkit-linear-gradient(#f0f, #90f);
+	background:    linear-gradient(#f0f, #90f);
+	border-radius: 5px;
+	color:         #fff;
+	font:          normal 700 45px/1 "Ubuntu", sans-serif;
+	text-align:    right;
+	text-shadow:   3px 3px 0 #000;
+	border:        2px solid #000;
+	margin-left:  450px;
+	margin-top:   550px;
+	cursor:       help;
+}
+
+#wall {
+	background-image: url("wall_yes.png");
+	    background-repeat:no-repeat;
+    background-size:cover;
+
+
+}
+
+#nope {
+	background-image: url("mad.gif");
+}
+
+#sad {
+	margin-left:  350px;
+	margin-top:   400px;
+}
+
+#audio { 
+ visibility: hidden;
+ }
+ 
+ #yes2 {
+ 	margin-left:  200px;
+	margin-top:   400px;
+ }
+ 
+ #audio {
+ visibility: hidden;
+ }
